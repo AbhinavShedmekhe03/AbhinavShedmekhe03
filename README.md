@@ -22,7 +22,7 @@ I'm a highly motivated and versatile Data Analyst and Quantitative Analyst with 
 
 ## Get in Touch
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhinavshedmekhe/) to explore collaboration opportunities or discuss exciting data-related projects.
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhinav-shedmekhe/) to explore collaboration opportunities or discuss exciting data-related projects.
 
 💻 You can also check out my [Portfolio Website](https://your-portfolio-website.com) to see some of my work and projects.
 
