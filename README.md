@@ -1,37 +1,29 @@
+# Hello, I'm Abhinav Shedmekhe! 👋
 
-# Abhinav Shedmekhe
+I'm a highly motivated and versatile Data Analyst and Quantitative Analyst with a passion for translating data into actionable insights. My journey in the world of data has been a thrilling ride, marked by a continuous quest to learn and improve.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Shedmekhe-blue)](https://www.linkedin.com/in/abhinavshedmekhe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://your-portfolio-website.com)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:abhinnavvofficial@gmail.com)
+## About Me
 
-Hi there! 👋 I'm Abhinav Shedmekhe, a highly skilled Quantitative Analyst with a strong focus on data analysis and an analytical mindset. My expertise lies in developing trading strategies, leveraging data modeling and visualization tools, and conducting statistical analysis to make informed decisions.
+- 💼 **Professional Background**: I have a proven track record in the field of data analysis and quantitative finance. My experience includes developing trading strategies, analyzing market trends, and effectively communicating insights to drive informed decision-making.
 
-## Professional Background
+- 📊 **Data Enthusiast**: I'm deeply passionate about data and its potential to drive innovation. Whether it's exploring large datasets, modeling complex systems, or creating interactive data visualizations, I'm always eager to dive into the world of data.
 
-With a proven track record in the financial industry, I have played a crucial role in enhancing data-driven decision-making processes. During my time at Arya Risk Management, I introduced advanced data analysis techniques, including exploratory data analysis (EDA), which significantly improved data accuracy and efficiency, resulting in a nearly $10,000 gain in the first year of trading. I also contributed to the development of trading algorithms, using my analytical skills to identify patterns and trends in large datasets.
-
-My experience as an Equity Dealer at HDFC Securities involved analyzing market trends to identify profitable opportunities and providing valuable investment advice to clients. I exceeded sales targets, thereby increasing revenue and customer satisfaction. At SmartGain Pvt. Ltd, I conducted technical analysis on stocks and commodities, effectively communicating my insights and recommendations to senior management and clients.
+- 🌐 **Open Source Advocate**: I believe in the power of open source collaboration. I actively contribute to open-source projects and am excited about the possibilities of working together with like-minded individuals to solve real-world problems.
 
 ## Skills
 
-- **Programming Languages:** Python
-- **Data Analysis:** SQL, Advanced Excel
-- **Data Modeling & Visualization:** Data Modeling (e.g., using libraries like Pandas, Numpy), Data Visualization (e.g., using libraries like Matplotlib, Seaborn and tools like PowerBI)
-- **Statistical Analysis:** Statistical Analysis (e.g., using Python libraries such as NumPy and SciPy)
+- **Programming Languages**: Python
+- **Data Analysis**: SQL, Advanced Excel
+- **Data Modeling & Visualization**: Pandas, Matplotlib, Seaborn, PowerBI
+- **Statistical Analysis**: NumPy, SciPy
+- **Machine Learning**: Scikit-learn
+- **Business Communication**: Effective communication of complex insights
+- **Quantitative Finance**: Trading strategies, Equity markets, Risk assessment
 
-## Certification
+## Get in Touch
 
-- **Hero Vired** | Mar '23 - Present
-  - Accelerator Program in Business Analytics and Data Science
-  - Learnings Obtained: SQL, Python, Power BI, Tableau, Advanced Excel, Data Analysis, Data Visualization, Data Modeling, Statistical Analysis
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhinavshedmekhe/) to explore collaboration opportunities or discuss exciting data-related projects.
 
-- **Codecademy** | August '23
-  - BI Dashboard with Power BI Course
-  - Credential ID: 64C94964B2
+💻 You can also check out my [Portfolio Website](https://your-portfolio-website.com) to see some of my work and projects.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhinavshedmekhe/) to discuss potential collaborations or projects. You can also visit my [Portfolio Website](https://your-portfolio-website.com) for more details about my work.
-
-If you'd like to get in touch, please send me an email at abhinnavvofficial@gmail.com.
-
-Looking forward to connecting and collaborating with like-minded professionals!
+Looking forward to connecting with fellow data enthusiasts and collaborators. Let's embark on a data-driven journey together!
